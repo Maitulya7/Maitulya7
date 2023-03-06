@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/maitulya7" target="blank"><img src="https://img.shields.io/twitter/follow/maitulya7?logo=twitter&style=for-the-badge" alt="maitulya7" /></a> </p>
 
-- 🔭 I’m currently working on [JavaScript Projects](https://github.com/Maitulya7/Machine-learing-projects-)
+- 🔭 I’m currently working on [JavaScript Projects](https://github.com/Maitulya7/JAVASCRIPT_30-DAYS_30-PROJECTS)
 
 - 🌱 I’m currently learning **Blockchain and Front-End Development**
 
