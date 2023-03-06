@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Front-End Development**
 
-- 💬 Ask me about **Web-development , python , Machine learning and Blockchain**
+- 💬 Ask me about **Web-development , UI/UX Design and Blockchain**
 
 - 📫 How to reach me **https://www.linkedin.com/in/maitulya-vaghela-20b6b4218/**
 
