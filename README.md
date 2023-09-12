@@ -1,104 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  /* Add your CSS styles here */
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-  }
-
-  .profile-header {
-    display: flex;
-    align-items: center;
-  }
-
-  .profile-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin-right: 20px;
-  }
-
-  .profile-info {
-    flex: 1;
-  }
-
-  .profile-info h1 {
-    font-size: 24px;
-    margin: 0;
-  }
-
-  .profile-info h3 {
-    font-size: 18px;
-    margin: 5px 0;
-  }
-
-  .languages-tools {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  .languages-tools .icon {
-    display: flex;
-    align-items: center;
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f5f5f5;
-  }
-
-  .languages-tools img {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-  }
-</style>
-</head>
-<body>
-
-<div class="container">
-  <div class="profile-header">
-    <img class="profile-image" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Profile Image">
-    <div class="profile-info">
-      <h1>Hi 👋, I'm Maitulya Vaghela</h1>
-      <h3>A passionate frontend developer, ML/AI developer, and Blockchain developer from India.</h3>
-    </div>
-  </div>
-
-  <p>🔭 I’m currently working on <a href="https://github.com/Maitulya7/JAVASCRIPT_30-DAYS_30-PROJECTS">JavaScript Projects</a></p>
-  <p>🌱 I’m currently learning Blockchain and Front-End Development</p>
-  <p>💬 Ask me about Web development, UI/UX Design, and Blockchain</p>
-  <p>📫 How to reach me <a href="https://www.linkedin.com/in/maitulya-vaghela-20b6b4218/">LinkedIn</a></p>
-
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://twitter.com/maitulya7" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/maitulya-vaghela" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-  </p>
-
-  <h3>Languages and Tools:</h3>
-  <div class="languages-tools">
-    <div class="icon">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender">
-      Blender
-    </div>
-    <div class="icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
-      Bootstrap
-    </div>
-    <!-- Add more icons here -->
-  </div>
-
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=maitulya7&theme=blue-green&hide_border=true" alt="GitHub Streak Stats">
-</div>
-
-</body>
 </html>
+
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Maitulya Vaghela</h1>
+<h3 align="center">A passionate frontend developer , ML/AI developer and Block-chain developer From India .</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitulya7&label=Profile%20views&color=0e75b6&style=flat" alt="maitulya7" /> </p>
+
+<p align="left"> <a href="https://twitter.com/maitulya7" target="blank"><img src="https://img.shields.io/twitter/follow/maitulya7?logo=twitter&style=for-the-badge" alt="maitulya7" /></a> </p>
+
+- 🔭 I’m currently working on [JavaScript Projects](https://github.com/Maitulya7/JAVASCRIPT_30-DAYS_30-PROJECTS)
+
+- 🌱 I’m currently learning **Blockchain and Front-End Development**
+
+- 💬 Ask me about **Web-development , UI/UX Design and Blockchain**
+
+- 📫 How to reach me **https://www.linkedin.com/in/maitulya-vaghela-20b6b4218/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maitulya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maitulya7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maitulya vaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitulya vaghela" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+    
+![Maitulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitulya7&show_icons=true&theme=radical)
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitulya7&theme=radical)
+     
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=maitulya7&theme=blue-green&hide_border=true" alt="" />
