@@ -2,7 +2,7 @@
 
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maitulya Vaghela</h1>
-<h3 align="center">A passionate frontend developer , ML/AI developer and Block-chain developer From India .</h3>
+<h3 align="center">A passionate Front End Developer & Full Stack Developer From India .</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitulya7&label=Profile%20views&color=0e75b6&style=flat" alt="maitulya7" /> </p>
 
