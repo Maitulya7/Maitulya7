@@ -16,6 +16,22 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/maitulya-vaghela-20b6b4218/**
 
+<h2>👀 OPEN SOURCE CONTRIBUTION 🚀🚀🚀🚀</h2>
+
+
+
+
+
+
+
+[![Maitulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maitulya vaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitulya vaghela" height="30" width="40" /></a>
