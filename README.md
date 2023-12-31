@@ -26,7 +26,7 @@
 
 [![Maitulya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maitulya7&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/Maitulya7/Maitulya7/blob/output/snake.svg)
+
 
 
 
